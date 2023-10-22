@@ -32,7 +32,7 @@ Here are the steps to create a GitHub repository, add code, create a feature bra
    Now, connect your local repository to the GitHub remote repository:
 
    ```bash
-   git remote add origin https://github.com/yourusername/your-repo.git
+   git remote add origin https://github.com/Jemiardp/assigment6-Question-2
    ```
 
    Push your code to GitHub:
